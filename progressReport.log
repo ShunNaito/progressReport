@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.8.4)  20 AUG 2014 17:35
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.8.4)  21 AUG 2014 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -98,14 +98,14 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 17.
 
 
-LaTeX Warning: Reference `LCDCond' on page 1 undefined on input line 27.
+LaTeX Warning: Reference `LCDCond' on page 1 undefined on input line 29.
 
 File: ./fig/LTCond.eps Graphic file (type eps)
 <./fig/LTCond.eps>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 49.
+(Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 49.
+(Font)              <5> on input line 51.
 
 No file progressReport.bbl.
 [1
@@ -127,4 +127,4 @@ Here is how much of TeX's memory you used:
  745 hyphenation exceptions out of 8191
  28i,7n,21p,7016b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on progressReport.dvi (1 page, 2364 bytes).
+Output written on progressReport.dvi (1 page, 3208 bytes).
