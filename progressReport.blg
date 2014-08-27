@@ -1,0 +1,52 @@
+This is pBibTeX, Version 0.99d-j0.33 (utf8.euc) (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: progressReport.aux
+The style file: ipsjsort.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: reference.bib
+Warning--there's no number and/or volumeElucignage
+Warning--there's no number and/or volumeElucignage-jsai
+Warning--Missing required argument pages in Elucignage-jsai
+You've used 2 entries,
+            2481 wiz_defined-function locations,
+            576 strings with 4810 characters,
+and the built_in function-call counts, 675 in all, are:
+= -- 58
+> -- 24
+< -- 1
++ -- 10
+- -- 8
+* -- 49
+:= -- 112
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 26
+empty$ -- 57
+format.name$ -- 12
+if$ -- 148
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 9
+num.names$ -- 4
+pop$ -- 8
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 36
+stack$ -- 0
+substring$ -- 30
+swap$ -- 7
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 3
+while$ -- 6
+width$ -- 3
+write$ -- 17
+is.kanji.str$ -- 8
+(There were 3 warnings)

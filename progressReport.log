@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.8.4)  27 AUG 2014 11:25
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.8.4)  27 AUG 2014 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -110,14 +110,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 62.
-
-No file progressReport.bbl.
-[1
+ (./progressReport.bbl) [1
 
 
 
+
+]
+
+LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 77.
+
+[2
 
 ] (./progressReport.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 
 LaTeX Warning: There were undefined references.
 
@@ -126,12 +138,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 624 strings out of 494008
- 7510 string characters out of 6154473
- 66346 words of memory out of 5000000
- 4134 multiletter control sequences out of 15000+600000
- 9658 words of font info for 39 fonts, out of 8000000 for 9000
+ 634 strings out of 494008
+ 7648 string characters out of 6154473
+ 67346 words of memory out of 5000000
+ 4141 multiletter control sequences out of 15000+600000
+ 10004 words of font info for 40 fonts, out of 8000000 for 9000
  745 hyphenation exceptions out of 8191
- 28i,7n,21p,7016b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,7n,21p,7016b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on progressReport.dvi (1 page, 5104 bytes).
+Output written on progressReport.dvi (2 pages, 7276 bytes).
