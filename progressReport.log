@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.8.4)  30 AUG 2014 23:47
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.8.4)  31 AUG 2014 21:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -101,13 +101,7 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 17.
 
 
-LaTeX Warning: Citation `比較' on page 1 undefined on input line 56.
-
-
-LaTeX Warning: Citation `情報編纂研究会' on page 1 undefined on input line 56.
-
-
-LaTeX Warning: Citation `タグ付きコーパス' on page 1 undefined on input line 58
+LaTeX Warning: Citation `タグ付きコーパス' on page 1 undefined on input line 39
 .
 
 File: tagu.PNG Graphic file (type eps)
@@ -118,19 +112,14 @@ File: STEND.PNG Graphic file (type eps)
 
 
 
-]
-
-LaTeX Warning: Citation `比較' on page 2 undefined on input line 82.
-
-File: object.PNG Graphic file (type eps)
-<object.PNG> (./progressReport.bbl)
+] (./progressReport.bbl)
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 135.
+(Font)              using `JT1/mc/m/n' instead on input line 98.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 135.
+(Font)              using `JY1/mc/m/n' instead on input line 98.
 
 [2] (./progressReport.aux)
 
@@ -141,12 +130,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 683 strings out of 494008
- 8423 string characters out of 6154473
+ 679 strings out of 494008
+ 8394 string characters out of 6154473
  68409 words of memory out of 5000000
- 4185 multiletter control sequences out of 15000+600000
+ 4182 multiletter control sequences out of 15000+600000
  10004 words of font info for 40 fonts, out of 8000000 for 9000
  745 hyphenation exceptions out of 8191
  28i,5n,21p,778b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on progressReport.dvi (2 pages, 12832 bytes).
+Output written on progressReport.dvi (2 pages, 12068 bytes).
