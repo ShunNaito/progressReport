@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.8.4)  4 SEP 2014 18:53
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.8.4)  5 SEP 2014 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -118,67 +118,43 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 18.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 18.
-
-Underfull \hbox (badness 1831) in paragraph at lines 41--42
-\JY1/mc/m/n/10 視化システム \OT1/cmr/m/n/10 [[]] \JY1/mc/m/n/10 や松下らの \OT1
-/cmr/m/n/10 STEND[[]]\JY1/mc/m/n/10 、 加藤らの
- []
-
-
-LaTeX Warning: Reference `system' on page 1 undefined on input line 43.
-
-
-LaTeX Warning: Citation `タグ付きコーパス' on page 1 undefined on input line 43
-.
-
-
-LaTeX Warning: Reference `STEND' on page 1 undefined on input line 58.
-
-File: STEND.PNG Graphic file (type eps)
-<STEND.PNG>
-
-LaTeX Warning: Reference `oblject' on page 1 undefined on input line 66.
-
-[1
+ [1
 
 
 
 
 ]
+File: STEND.PNG Graphic file (type eps)
+ <STEND.PNG>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 113.
+(Font)              <7> on input line 92.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 113.
-File: Elucignageprototype.png Graphic file (type bmp)
- <Elucignageprototype.png>
-File: Elucignage_click.png Graphic file (type bmp)
- <Elucignage_click.png>
+(Font)              <5> on input line 92.
+
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 158.
+(Font)              using `JT1/mc/m/n' instead on input line 98.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 158.
+(Font)              using `JY1/mc/m/n' instead on input line 98.
 
-[2] (./progressReport.bbl) [3] (./progressReport.aux)
+[2]
+File: Elucignageprototype.png Graphic file (type bmp)
+ <Elucignageprototype.png>
+File: Elucignage_click.png Graphic file (type bmp)
+ <Elucignage_click.png> [3] (./progressReport.bbl) [4] (./progressReport.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 749 strings out of 494008
- 9243 string characters out of 6154473
- 74404 words of memory out of 5000000
- 4243 multiletter control sequences out of 15000+600000
+ 746 strings out of 494008
+ 9208 string characters out of 6154473
+ 75404 words of memory out of 5000000
+ 4240 multiletter control sequences out of 15000+600000
  10100 words of font info for 41 fonts, out of 8000000 for 9000
  745 hyphenation exceptions out of 8191
- 28i,5n,21p,1240b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,21p,1240b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on progressReport.dvi (3 pages, 23392 bytes).
+Output written on progressReport.dvi (4 pages, 32016 bytes).
