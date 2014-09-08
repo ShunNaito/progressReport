@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.8.4)  6 SEP 2014 22:52
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2013.8.4)  8 SEP 2014 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -118,8 +118,6 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 22.
-File: tagu.PNG Graphic file (type eps)
- <tagu.PNG>
 File: STEND.PNG Graphic file (type eps)
  <STEND.PNG> [1
 
@@ -128,17 +126,17 @@ File: STEND.PNG Graphic file (type eps)
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 132.
+(Font)              <7> on input line 129.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 132.
+(Font)              <5> on input line 129.
 
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 142.
+(Font)              using `JT1/mc/m/n' instead on input line 139.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 142.
+(Font)              using `JY1/mc/m/n' instead on input line 139.
 
 [2] [3]
 File: Elucignageprototype.png Graphic file (type bmp)
@@ -150,12 +148,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 750 strings out of 494008
- 9243 string characters out of 6154473
- 73404 words of memory out of 5000000
- 4242 multiletter control sequences out of 15000+600000
+ 747 strings out of 494008
+ 9219 string characters out of 6154473
+ 74404 words of memory out of 5000000
+ 4240 multiletter control sequences out of 15000+600000
  10268 words of font info for 42 fonts, out of 8000000 for 9000
  745 hyphenation exceptions out of 8191
  28i,6n,21p,1231b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on progressReport.dvi (4 pages, 32744 bytes).
+Output written on progressReport.dvi (4 pages, 34232 bytes).
